@@ -42,6 +42,6 @@ func main() {
 	//	}
 	//}
 
-	//获取当前unix时间戳 和 unixnano 时间戳(获取随机数字)
+	//获取当前unix时间戳 和 unixNano 时间戳(获取随机数字)
 	fmt.Printf("unix时间戳=%v unixnano时间戳=%v\n", now.Unix(), now.UnixNano())
 }
